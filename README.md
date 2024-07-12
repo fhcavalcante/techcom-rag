@@ -15,4 +15,4 @@ docker build -t techcom-rag .
 
 2 - Execute:
 
-docker run 5002:5002 techcom-rag
+docker run 5001:5001 techcom-rag
